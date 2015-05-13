@@ -10,7 +10,7 @@ module.exports = React.createClass({
         };
     },
     getCurrentTime: function () {
-        var timeFormat = this.props.twelveHoursClock ? 'hh:mm A': 'hh:mm';
+        var timeFormat = this.props.twelveHoursClock ? 'hh:mm A': 'HH:mm';
 
         this.setState({
             currentTime: Moment().format(timeFormat)
