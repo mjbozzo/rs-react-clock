@@ -1,6 +1,6 @@
 var React = require('react/addons'),
     Moment = require('moment'),
-    Configuration = require('../configuration.js').reactClock;
+    Configuration = require('configuration.js').reactClock;
 
 module.exports = React.createClass({
     getDefaultProps: function () {
