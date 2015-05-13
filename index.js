@@ -1,1 +1,1 @@
-module.exports = require('./src/scripts/reactClock.jsx');
+module.exports = require('./src/scripts/react-clock.jsx');
