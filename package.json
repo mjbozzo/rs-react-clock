@@ -1,0 +1,27 @@
+{
+    "name": "rs-react-clock",
+    "description": "React Clock component",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/salesforce-demos/rs-react-clock.git"
+    },
+    "version": "0.0.1",
+    "dependencies": {
+        "webpack": "~1.8.2",
+        "react-tools": "~0.13.1",
+        "react": "~0.13.1",
+        "react-hot-loader": "~1.2.4",
+        "webpack-dev-server": "~1.8.0",
+        "grunt-webpack": "~1.0.8",
+        "matchdep": "~0.3.0",
+        "jsx-loader": "~0.13.1",
+        "react-mini-router": "~1.1.2",
+        "css-loader": "~0.10.1",
+        "file-loader": "~0.8.1",
+        "url-loader": "~0.5.5",
+        "style-loader": "~0.10.1",
+        "string": "~3.1.1",
+        "image-webpack-loader": "~1.4.0"
+    }
+}
